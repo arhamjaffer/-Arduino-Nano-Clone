@@ -25,9 +25,9 @@ A **fully custom Arduino Nano clone** designed from scratch in **KiCad 10.0** â€
 
 > *(Add your PCB layout screenshot or 3D render here)*
 
-| Schematic | PCB Layout | 3D View |
-|-----------|------------|---------|
-| ![Schematic](images/schematic.png) | ![PCB](images/pcb_layout.png) | ![3D](images/3d_render.png) |
+| Schematic | PCB Layout |
+|-----------|------------|
+| ![Schematic](https://github.com/arhamjaffer/-Arduino-Nano-Clone/blob/main/schematic.PNG) | ![PCB](images/pcb_layout.png) | ![3D](images/3d_render.png) |
 
 ---
 
