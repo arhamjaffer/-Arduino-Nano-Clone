@@ -1,0 +1,513 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'D1:LED_SMD:LED_0402_1005Metric'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical'.
+Info: Processing symbol 'D4:LED_SMD:LED_0402_1005Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'D5:LED_SMD:LED_0402_1005Metric'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical'.
+Info: Processing symbol 'D3:LED_SMD:LED_0402_1005Metric'.
+Info: Processing symbol 'D2:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'J3:Connector_USB:USB_Mini-B_Wuerth_65100516121_Horizontal'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_DPDT_CK_JS202011JCQN'.
+Info: Processing symbol 'U1:Package_QFP:TQFP-32_7x7mm_P0.8mm'.
+Info: Processing symbol 'U2:Package_SON:WSON-8-1EP_4x4mm_P0.8mm_EP2.2x3mm'.
+Info: Processing symbol 'U3:Package_SO:SSOP-28_5.3x10.2mm_P0.65mm'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm'.
+Added C2 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0805_2012Metric to 4.7uF.
+Updated C2 symbol association from  to /a0142d78-2baf-4761-9ed6-88ddc32ff063.
+Updated C2 fields.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated C2 footprint filters to 'CP_*'.
+Connected C2 pin 2 to GND.
+Connected C2 pin 1 to VCC.
+Updated C2 unit metadata.
+Added C3 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0805_2012Metric to 100nF.
+Updated C3 symbol association from  to /4ed4c950-4277-4673-8c6b-0d8e379d946b.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated C3 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Add net /AREF.
+Connected C3 pin 1 to /AREF.
+Connected C3 pin 2 to GND.
+Updated C3 unit metadata.
+Added C4 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C4.
+Changed C4 value from C_0805_2012Metric to 100nF.
+Updated C4 symbol association from  to /f9c9eccf-bfee-44a1-9efe-30ee698a16e7.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 2 to GND.
+Add net /V_USB.
+Connected C4 pin 1 to /V_USB.
+Updated C4 unit metadata.
+Added C5 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0805_2012Metric to 4.7uF.
+Updated C5 symbol association from  to /4bde74e0-5deb-4aca-adcd-1fa0a829a89a.
+Updated C5 fields.
+Updated C5 sheetname to '/'.
+Updated C5 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated C5 footprint filters to 'CP_*'.
+Connected C5 pin 2 to GND.
+Connected C5 pin 1 to /V_USB.
+Updated C5 unit metadata.
+Added C6 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C6.
+Changed C6 value from C_0805_2012Metric to 4.7uF.
+Updated C6 symbol association from  to /002b1e3c-7dff-4985-8fa6-0fb4a6fc861f.
+Updated C6 fields.
+Updated C6 sheetname to '/'.
+Updated C6 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated C6 footprint filters to 'CP_*'.
+Connected C6 pin 2 to GND.
+Connected C6 pin 1 to VCC.
+Updated C6 unit metadata.
+Added C7 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C7.
+Changed C7 value from C_0402_1005Metric to 100nF.
+Updated C7 symbol association from  to /6b96b835-feee-4008-91de-625411ec7304.
+Updated C7 fields.
+Updated C7 sheetname to '/'.
+Updated C7 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Connected C7 pin 2 to GND.
+Add net /3V3.
+Connected C7 pin 1 to /3V3.
+Updated C7 unit metadata.
+Added C8 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C8.
+Changed C8 value from C_0402_1005Metric to 100nF.
+Updated C8 symbol association from  to /fb12bac0-7f52-4e9f-9e7d-b23b78817667.
+Updated C8 fields.
+Updated C8 sheetname to '/'.
+Updated C8 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated C8 footprint filters to 'C_*'.
+Add net Net-(U3-~{RESET}).
+Connected C8 pin 2 to Net-(U3-~{RESET}).
+Add net /RESET.
+Connected C8 pin 1 to /RESET.
+Updated C8 unit metadata.
+Added D1 (footprint 'LED_SMD:LED_0402_1005Metric').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_0402_1005Metric to LED_Small.
+Updated D1 symbol association from  to /f23ce0f4-af7c-416b-95c0-0e0e0631ae46.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Connected D1 pin 1 to GND.
+Updated D1 unit metadata.
+Added D2 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D2.
+Changed D2 value from D_SOD-123 to MBR0520LT.
+Updated D2 symbol association from  to /389ecd76-2eb7-4432-8a4a-4f6700442ce4.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated D2 footprint filters to 'D*SOD?123*'.
+Connected D2 pin 1 to VCC.
+Connected D2 pin 2 to /V_USB.
+Updated D2 unit metadata.
+Added D3 (footprint 'LED_SMD:LED_0402_1005Metric').
+Changed REF** reference designator to D3.
+Changed D3 value from LED_0402_1005Metric to LED_Small.
+Updated D3 symbol association from  to /1ec16e29-a183-4790-8755-093a5efc945f.
+Updated D3 fields.
+Updated D3 sheetname to '/'.
+Updated D3 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated D3 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D3-A).
+Connected D3 pin 2 to Net-(D3-A).
+Connected D3 pin 1 to GND.
+Updated D3 unit metadata.
+Added D4 (footprint 'LED_SMD:LED_0402_1005Metric').
+Changed REF** reference designator to D4.
+Changed D4 value from LED_0402_1005Metric to LED_Small.
+Updated D4 symbol association from  to /fd1ce71a-1513-4d53-99a9-7640618a944d.
+Updated D4 fields.
+Updated D4 sheetname to '/'.
+Updated D4 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated D4 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D4-K).
+Connected D4 pin 1 to Net-(D4-K).
+Connected D4 pin 2 to VCC.
+Updated D4 unit metadata.
+Added D5 (footprint 'LED_SMD:LED_0402_1005Metric').
+Changed REF** reference designator to D5.
+Changed D5 value from LED_0402_1005Metric to LED_Small.
+Updated D5 symbol association from  to /0e78a7a8-2b74-4531-864b-fca6038e4a0f.
+Updated D5 fields.
+Updated D5 sheetname to '/'.
+Updated D5 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated D5 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D5 pin 2 to VCC.
+Add net Net-(D5-K).
+Connected D5 pin 1 to Net-(D5-K).
+Updated D5 unit metadata.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x15_P2.54mm_Vertical to P1.
+Updated J1 symbol association from  to /9e905fd0-a46e-49a0-a36f-614afeadfd7d.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Add net /D5.
+Connected J1 pin 8 to /D5.
+Add net /D9.
+Connected J1 pin 12 to /D9.
+Connected J1 pin 3 to /RESET.
+Add net /D4.
+Connected J1 pin 7 to /D4.
+Add net /D3.
+Connected J1 pin 6 to /D3.
+Add net /D12.
+Connected J1 pin 15 to /D12.
+Add net /D11.
+Connected J1 pin 14 to /D11.
+Add net /RX.
+Connected J1 pin 2 to /RX.
+Add net /D6.
+Connected J1 pin 9 to /D6.
+Connected J1 pin 4 to GND.
+Add net /TX.
+Connected J1 pin 1 to /TX.
+Add net /D2.
+Connected J1 pin 5 to /D2.
+Add net /D7.
+Connected J1 pin 10 to /D7.
+Add net /D10.
+Connected J1 pin 13 to /D10.
+Add net /D8.
+Connected J1 pin 11 to /D8.
+Updated J1 unit metadata.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x15_P2.54mm_Vertical to P2.
+Updated J2 symbol association from  to /292e5e16-475b-4ffb-85f6-65eabd68e24c.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Add net /A5.
+Connected J2 pin 10 to /A5.
+Connected J2 pin 13 to /AREF.
+Add net /D13.
+Connected J2 pin 15 to /D13.
+Add net /A1.
+Connected J2 pin 6 to /A1.
+Add net /A0.
+Connected J2 pin 5 to /A0.
+Add net /A2.
+Connected J2 pin 7 to /A2.
+Connected J2 pin 4 to VCC.
+Add net /A4.
+Connected J2 pin 9 to /A4.
+Add net /A3.
+Connected J2 pin 8 to /A3.
+Add net /VIN.
+Connected J2 pin 1 to /VIN.
+Add net /A6.
+Connected J2 pin 11 to /A6.
+Connected J2 pin 14 to /3V3.
+Connected J2 pin 2 to GND.
+Connected J2 pin 3 to /RESET.
+Add net /A7.
+Connected J2 pin 12 to /A7.
+Updated J2 unit metadata.
+Added J3 (footprint 'Connector_USB:USB_Mini-B_Wuerth_65100516121_Horizontal').
+Changed REF** reference designator to J3.
+Changed J3 value from USB_Mini-B_Wuerth_65100516121_Horizontal to USB_B_Mini.
+Updated J3 symbol association from  to /6f77238d-bac6-4c93-a8b5-fc77c41b7b98.
+Updated J3 fields.
+Updated J3 sheetname to '/'.
+Updated J3 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated J3 footprint filters to 'USB*Mini*B*'.
+Connected J3 pin SH to GND.
+Connected J3 pin SH to GND.
+Connected J3 pin 1 to /V_USB.
+Connected J3 pin 5 to GND.
+Add net /D+.
+Connected J3 pin 3 to /D+.
+Connected J3 pin SH to GND.
+Connected J3 pin SH to GND.
+Add net unconnected-(J3-ID-Pad4).
+Connected J3 pin 4 to unconnected-(J3-ID-Pad4).
+Add net /D-.
+Connected J3 pin 2 to /D-.
+Updated J3 unit metadata.
+Added C1 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added J4 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical').
+Changed REF** reference designator to J4.
+Changed J4 value from PinHeader_2x03_P2.54mm_Vertical to Conn_02x03_Odd_Even.
+Updated J4 symbol association from  to /ffa3e258-337c-46cf-8302-e010dcbd1e99.
+Updated J4 fields.
+Updated J4 sheetname to '/'.
+Updated J4 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated J4 footprint filters to 'Connector*:*_2x??_*'.
+Connected J4 pin 4 to /D11.
+Connected J4 pin 3 to /D13.
+Connected J4 pin 2 to VCC.
+Connected J4 pin 1 to /D12.
+Connected J4 pin 5 to /RESET.
+Connected J4 pin 6 to GND.
+Updated J4 unit metadata.
+Changed REF** reference designator to C1.
+Added R1 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0402_1005Metric to 1k.
+Updated R1 symbol association from  to /191ec9cf-307d-4036-9530-297d3a6c2388.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 2 to /RX.
+Add net Net-(U1-PD0).
+Connected R1 pin 1 to Net-(U1-PD0).
+Updated R1 unit metadata.
+Changed C1 value from C_0402_1005Metric to 100nF.
+Added R2 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0402_1005Metric to 1k.
+Updated R2 symbol association from  to /0a4d1f18-315c-485a-a847-3e06548d10cc.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Add net Net-(U1-PD1).
+Connected R2 pin 1 to Net-(U1-PD1).
+Connected R2 pin 2 to /TX.
+Updated R2 unit metadata.
+Updated C1 symbol association from  to /5c0a81ee-e4a9-442b-9837-709eb3cb8deb.
+Added R3 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0402_1005Metric to 680E.
+Updated R3 symbol association from  to /f935f530-aaea-48e6-b9a2-3011e444d514.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 2 to Net-(D1-A).
+Connected R3 pin 1 to /D13.
+Updated R3 unit metadata.
+Updated C1 fields.
+Added R4 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0402_1005Metric to 1k.
+Updated R4 symbol association from  to /ee0ccb86-5dc3-4404-bf12-75ce8ab2d1b3.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 2 to VCC.
+Connected R4 pin 1 to /RESET.
+Updated R4 unit metadata.
+Updated C1 sheetname to '/'.
+Added R5 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R5.
+Changed R5 value from R_0402_1005Metric to 680E.
+Updated R5 symbol association from  to /53d052d2-5d55-4a45-a449-378c52f18f66.
+Updated R5 fields.
+Updated R5 sheetname to '/'.
+Updated R5 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 1 to VCC.
+Connected R5 pin 2 to Net-(D3-A).
+Updated R5 unit metadata.
+Updated C1 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Added R6 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0402_1005Metric to 680E.
+Updated R6 symbol association from  to /c781eb56-5f00-4155-9ea6-609893304dd3.
+Updated R6 fields.
+Updated R6 sheetname to '/'.
+Updated R6 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated R6 footprint filters to 'R_*'.
+Connected R6 pin 2 to Net-(D4-K).
+Add net Net-(U3-CBUS0).
+Connected R6 pin 1 to Net-(U3-CBUS0).
+Updated R6 unit metadata.
+Updated C1 footprint filters to 'C_*'.
+Added R7 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0402_1005Metric to 680E.
+Updated R7 symbol association from  to /ceb97f02-c8cb-4b10-9719-a7cfaf0653de.
+Updated R7 fields.
+Updated R7 sheetname to '/'.
+Updated R7 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated R7 footprint filters to 'R_*'.
+Add net Net-(U3-CBUS1).
+Connected R7 pin 1 to Net-(U3-CBUS1).
+Connected R7 pin 2 to Net-(D5-K).
+Updated R7 unit metadata.
+Add net GND.
+Added SW1 (footprint 'Button_Switch_SMD:SW_DPDT_CK_JS202011JCQN').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_DPDT_CK_JS202011JCQN to SW_Push_Dual.
+Updated SW1 symbol association from  to /bd52ca50-bb20-4777-99cb-85b3e450e959.
+Updated SW1 fields.
+Updated SW1 sheetname to '/'.
+Updated SW1 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Connected SW1 pin 3 to GND.
+Connected SW1 pin 2 to /RESET.
+Connected SW1 pin 1 to GND.
+Connected SW1 pin 4 to /RESET.
+Updated SW1 unit metadata.
+Connected C1 pin 2 to GND.
+Added U1 (footprint 'Package_QFP:TQFP-32_7x7mm_P0.8mm').
+Changed REF** reference designator to U1.
+Changed U1 value from TQFP-32_7x7mm_P0.8mm to ATmega328P-A.
+Updated U1 symbol association from  to /894eb288-737e-43b1-b0da-a981461c8e21.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated U1 footprint filters to 'TQFP*7x7mm*P0.8mm*'.
+Connected U1 pin 32 to /D2.
+Connected U1 pin 31 to Net-(U1-PD1).
+Connected U1 pin 27 to /A4.
+Connected U1 pin 22 to /A7.
+Connected U1 pin 5 to GND.
+Connected U1 pin 16 to /D12.
+Connected U1 pin 15 to /D11.
+Connected U1 pin 9 to /D5.
+Connected U1 pin 2 to /D4.
+Connected U1 pin 30 to Net-(U1-PD0).
+Connected U1 pin 26 to /A3.
+Connected U1 pin 17 to /D13.
+Connected U1 pin 12 to /D8.
+Connected U1 pin 19 to /A6.
+Connected U1 pin 11 to /D7.
+Connected U1 pin 29 to /RESET.
+Connected U1 pin 13 to /D9.
+Connected U1 pin 18 to VCC.
+Connected U1 pin 1 to /D3.
+Connected U1 pin 6 to VCC.
+Connected U1 pin 25 to /A2.
+Add net /X1.
+Connected U1 pin 7 to /X1.
+Connected U1 pin 21 to GND.
+Add net /X2.
+Connected U1 pin 8 to /X2.
+Connected U1 pin 14 to /D10.
+Connected U1 pin 24 to /A1.
+Connected U1 pin 10 to /D6.
+Connected U1 pin 3 to GND.
+Connected U1 pin 20 to /AREF.
+Connected U1 pin 4 to VCC.
+Connected U1 pin 23 to /A0.
+Connected U1 pin 28 to /A5.
+Updated U1 unit metadata.
+Add net VCC.
+Added U2 (footprint 'Package_SON:WSON-8-1EP_4x4mm_P0.8mm_EP2.2x3mm').
+Changed REF** reference designator to U2.
+Changed U2 value from WSON-8-1EP_4x4mm_P0.8mm_EP2.2x3mm to LM1117LD-5.0.
+Updated U2 symbol association from  to /8d5ab189-cdaf-4fb3-a5b9-60b1d5d9d20d.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated U2 footprint filters to 'WSON?8*'.
+Connected U2 pin 7 to VCC.
+Connected U2 pin 3 to /VIN.
+Connected U2 pin 5 to VCC.
+Connected U2 pin 2 to /VIN.
+Connected U2 pin 1 to GND.
+Add net unconnected-(U2-NC-Pad8).
+Connected U2 pin 8 to unconnected-(U2-NC-Pad8).
+Connected U2 pin 6 to VCC.
+Connected U2 pin 4 to /VIN.
+Connected U2 pin 9 to VCC.
+Updated U2 unit metadata.
+Connected C1 pin 1 to VCC.
+Added U3 (footprint 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm').
+Changed REF** reference designator to U3.
+Changed U3 value from SSOP-28_5.3x10.2mm_P0.65mm to FT232RL.
+Updated U3 symbol association from  to /e6ddfd57-5078-4852-9142-15afac70ee99.
+Updated U3 fields.
+Updated U3 sheetname to '/'.
+Updated U3 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated U3 footprint filters to 'SSOP*5.3x10.2mm*P0.65mm*'.
+Connected U3 pin 5 to /TX.
+Connected U3 pin 4 to VCC.
+Connected U3 pin 7 to GND.
+Add net unconnected-(U3-DCR-Pad9).
+Connected U3 pin 9 to unconnected-(U3-DCR-Pad9).
+Add net unconnected-(U3-OSCI-Pad27).
+Connected U3 pin 27 to unconnected-(U3-OSCI-Pad27).
+Connected U3 pin 18 to GND.
+Add net unconnected-(U3-CBUS2-Pad13).
+Connected U3 pin 13 to unconnected-(U3-CBUS2-Pad13).
+Connected U3 pin 1 to /RX.
+Connected U3 pin 21 to GND.
+Connected U3 pin 25 to GND.
+Connected U3 pin 19 to Net-(U3-~{RESET}).
+Add net unconnected-(U3-CBUS4-Pad12).
+Connected U3 pin 12 to unconnected-(U3-CBUS4-Pad12).
+Add net unconnected-(U3-USBD+-Pad15).
+Connected U3 pin 15 to unconnected-(U3-USBD+-Pad15).
+Connected U3 pin 20 to VCC.
+Add net unconnected-(U3-CBUS3-Pad14).
+Connected U3 pin 14 to unconnected-(U3-CBUS3-Pad14).
+Add net unconnected-(U3-OSCO-Pad28).
+Connected U3 pin 28 to unconnected-(U3-OSCO-Pad28).
+Add net unconnected-(U3-CTS-Pad11).
+Connected U3 pin 11 to unconnected-(U3-CTS-Pad11).
+Add net unconnected-(U3-RI-Pad6).
+Connected U3 pin 6 to unconnected-(U3-RI-Pad6).
+Connected U3 pin 22 to Net-(U3-CBUS1).
+Add net unconnected-(U3-USBD--Pad16).
+Connected U3 pin 16 to unconnected-(U3-USBD--Pad16).
+Add net unconnected-(U3-DTR-Pad2).
+Connected U3 pin 2 to unconnected-(U3-DTR-Pad2).
+Add net unconnected-(U3-DCD-Pad10).
+Connected U3 pin 10 to unconnected-(U3-DCD-Pad10).
+Add net unconnected-(U3-RTS-Pad3).
+Connected U3 pin 3 to unconnected-(U3-RTS-Pad3).
+Connected U3 pin 23 to Net-(U3-CBUS0).
+Connected U3 pin 17 to /3V3.
+Connected U3 pin 26 to GND.
+Updated U3 unit metadata.
+Updated C1 unit metadata.
+Added Y1 (footprint 'Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm').
+Changed REF** reference designator to Y1.
+Changed Y1 value from Crystal_SMD_3225-4Pin_3.2x2.5mm to Crystal_GND23.
+Updated Y1 symbol association from  to /c90515d5-55c2-46f0-9275-5df6cc5f38de.
+Updated Y1 fields.
+Updated Y1 sheetname to '/'.
+Updated Y1 sheetfile to 'Aurdino Nano Clone 1.0.kicad_sch'.
+Updated Y1 footprint filters to 'Crystal*'.
+Connected Y1 pin 3 to GND.
+Connected Y1 pin 1 to /X2.
+Connected Y1 pin 2 to GND.
+Connected Y1 pin 4 to /X1.
+Updated Y1 unit metadata.
+Warning: No net found for component SW1 pad 6 (no pin 6 in symbol).
+Warning: No net found for component SW1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U3 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U3 pad 24 (no pin 24 in symbol).
+
+
+Info: Total warnings: 4, errors: 0.
